@@ -1,3 +1,3 @@
 // Write your code in this file!
 let currentUser = "Barbara"
-const welcomeMessage = 
+const welcomeMessage = "Welcome to Flatbook, " + currentUser
